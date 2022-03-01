@@ -1,0 +1,2163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A candle lighted at the lampe of sacred scriptures. Or, A catechisme conteining all truths fundamentall, and none but fundamentalls. By Richard Bifield, minister of Gods word, and pastor in Long Dutton..</title>
+            <author>Byfield, Richard, 1598?-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07429</idno>
+            <idno type="OCLC"> 166384379</idno>
+            <idno type="STC">STC 4237.5</idno>
+            <idno type="STC">ESTC S91269</idno>
+            <idno type="EEBO-CITATION">166384379</idno>
+            <idno type="OCLC">ocn 166384379</idno>
+            <idno type="VID">191513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2269:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A candle lighted at the lampe of sacred scriptures. Or, A catechisme conteining all truths fundamentall, and none but fundamentalls. By Richard Bifield, minister of Gods word, and pastor in Long Dutton..</title>
+                  <author>Byfield, Richard, 1598?-1664.</author>
+               </titleStmt>
+               <extent>[54] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes initials and printed marginalia.</note>
+                  <note>Signature: A-C⁸ D².</note>
+                  <note>Reproduction of original in: Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Bible --  Examinations, questions, etc --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191513:1" rendition="simple:additions"/>
+            <p>A CANDLE LIGH<g ref="char:EOLhyphen"/>TED AT THE LAMPE OF SACRED SCRIP<g ref="char:EOLhyphen"/>TVRES. Or A Catechiſme conteining all truths fundamentall, and none but fundamentalls.</p>
+            <p>By <hi>Richard Bifield,</hi> Miniſter of Gods word, and Paſtor in <hi>Long Ditton.</hi>
+            </p>
+            <q>
+               <bibl>2 Tim 3. 15.</bibl>
+               <p>
+                  <hi>From a Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld thou haſt knowen the Holy Scripture<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, which a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e able to m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe to ſal<g ref="char:EOLhyphen"/>ua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>io<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> is i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſt Ieſus.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Argumen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o.</hi>
+            </p>
+            <q>
+               <bibl>Ambroſe de Spir<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u ſancto. l. 3. c. 11.</bibl>
+               <p>
+                  <hi>I leaue to the ſimplicity of Scripture, not the ſub<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>y of argument</hi>
+               </p>
+            </q>
+            <p>Imprinted at LONDON 1627.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:191513:2" rendition="simple:additions"/>
+            <head>A Precept to Parents.</head>
+            <p>Theſe words which I com<g ref="char:EOLhyphen"/>mande thee this day ſhall be in thine heart: and thou ſhalt teach them diligently vnto thy childre<g ref="char:cmbAbbrStroke">̄</g>, and ſhalt talke of them when thou ſitteſt in thine houſe, and when thou walkeſt by the way, and whe<g ref="char:cmbAbbrStroke">̄</g> thou lyeſt downe, and when thou riſeſt vp. <hi>Deut.</hi> 6. 6. 7.</p>
+         </div>
+         <div type="to_the_reader">
+            <head>To children and ſeruants.</head>
+            <p>Sanctifie the Lord God in your hearts, and bee readie alwayes to giue an anſwer to every man that asketh you a reaſon of the hope that is in you, with meekne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and feare. 1 <hi>peter.</hi> 3. 15.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:191513:2"/>
+            <head>
+               <hi>TO THE CHILDREN AND youth of</hi> Long-Ditton, Kingſton <hi>vp<g ref="char:EOLhyphen"/>on</hi> Thames, <hi>and Eaſt</hi> Molſey: <hi>Grace</hi> be vnto you and peace, from him which was, and which is, &amp; which is to come.</head>
+            <p>LIttle children and youth, I am debter to you alſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and am taught by <hi>Iohn,</hi> 
+               <note place="margin">1 <hi>Ioh,</hi> 2 12, 13.</note> the Diſciple whom our Saviour loved: to pay this debt by writing. I Dedicate there<g ref="char:EOLhyphen"/>fore this little booke to you ioyntly: where in<g ref="char:punc">▪</g> you my little babes, may ſee the mer<g ref="char:EOLhyphen"/>cies of God in forgiuing your ſinnes for Chriſts name ſake; and may learne euen in the milke to know, and knowing to call God Father. Wherein likewiſe you young men, may, as out of the Lords armory, haue weapons ready fitted to your hand &amp; vſe, wherewith ye ſhall overcome that wic<g ref="char:EOLhyphen"/>ked one. And if ye receiue by faith this doctrine, and let it abide in you, to loue it to obey it, you ſhall encreaſe your ſtrength; and the better with ſtand future aſſaults, in all of them, being more then Conque<g ref="char:EOLhyphen"/>rours.</p>
+            <p>For, in the first part, yee haue orderly framed in words of Stripture, the whole body of divinitie, which we are to beleeue
+<pb facs="tcp:191513:3"/> concern<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g the Goſpell of our Lord and Sa<g ref="char:EOLhyphen"/>viour Ieſus Chriſt, after a familiar way of Cat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chiſing: no one matter of opinion mix<g ref="char:EOLhyphen"/>ed therewith, but onely fundamentall truthes; layd downe ſo that all Hereſies-now being, or formerly rooted, or that may hereafter ſpring vp, as tares amongſt the wheate, are cut off; not by humaine wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and Schoole diſtincti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns: but by divine word &amp; holy writ. here you haue much, yea all in a little, yet without obſcurity. Here ye have that faith which ever was held &amp; profeſſed vniverſally in the Church: as will be manifeſt to the iudicious that are acquaint<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with Scripture, with Councels with the authen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Creeds, with the pub<g ref="char:EOLunhyphen"/>like confeſſions of chriſtian m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n &amp; Chur<g ref="char:EOLhyphen"/>ches. The truth I dare boldly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, the ene<g ref="char:EOLhyphen"/>mies themſelues being iudges. In a word: yee haue here the heads of Doctrine, which in euery particular in the audience of the Congregation of <hi>Kingſton</hi> vpon <hi>Thames,</hi> was with feare and trembling <hi>(being</hi> part of full three years laboures their) diſcourſed off at larg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſhewing in all and every point, the Harmony of both Teſtaments, the vn<g ref="char:EOLhyphen"/>tiyng of difficulties and knots in them, by way of explication, the wiles of Satha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the fleſh, begui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing vs of the fruite of ſuch
+<pb facs="tcp:191513:3"/> knowledge and beleife in deeds, while our mouthes profeſſed the ſame in words, the concluſions profitable and famous which depend upon ſuch prime truthes. And laſt<g ref="char:EOLhyphen"/>ly, the Inſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions, conſolations and re<g ref="char:EOLhyphen"/>proofes which theſe doctrines afford us, for the reformation of heart and life.</p>
+            <p>In the ſecond part, I preſent you with the rules of holy life, whereby you are taught as the truth is in Ieſus, <hi>to put off con<g ref="char:EOLhyphen"/>cerning the the former converſation, the old man which is corrupt accor<g ref="char:EOLhyphen"/>ding to the deceitfull luſts, and being renewed in the ſpirit of your minde, to put on the new man, which after God is created in righteovſnes and true ho<g ref="char:EOLhyphen"/>lineſſe.</hi> Here I haue diuided the precepts of the Goſpell: from thoſe of the Law, to avoyd confuſion: that they are diſtinct is a thing not hitherto heeded, yet (as to them will appeare that conſider it without pre<g ref="char:EOLhyphen"/>iudice) moſt certaine. The words of Chriſt haue as much force to bind, as the words of the Decalogue or ten commandements.</p>
+            <p>Likewiſe the voyce of Repentance, is no voyce of the Law; and ſo of the reſt. That I haue caſt them into ten, is not out of any ſuperſtition of the number: nor any conceit of mine that there are iuſt ten, but onely to
+<pb facs="tcp:191513:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:191513:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:191513:5"/> help memory; they alſo fitly ariſing to that number, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ought I ſee, the whole comprehended. I haue in the margent ſet two different marks upon certaine anſwers or phraſes in thoſe anſwers, by which I would haue you to take notice of your eſtate before God. If thoſe or any one of thoſe graces or priviledges bee manifeſt vpon your hearts wrought by the word, which are ſigned with this ſigne <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>being that Ange<g ref="char:EOLhyphen"/>licall mark, Ezek.</hi> 9. 4.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> they proue you actually the children of God. If the ſinnes or kind of offending be yet found in you which is marked with that marke <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the firſt letter in the word</hi> Let<g ref="char:EOLhyphen"/>zim <hi>P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l.</hi> 1. 1. <hi>ſignify<g ref="char:EOLhyphen"/>ing ſcorn<g ref="char:EOLunhyphen"/>ers.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> you are unregenerated and wicked ſinners, and remaine ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch till you waſh them a<g ref="char:EOLhyphen"/>way by true repentance, and Faith in the Lord Ieſus.</p>
+            <p>Take theſe &amp; digeſt them thorough<g ref="char:EOLhyphen"/>ly, yea eate them up; as reached forth to you from God, tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh by the unworthy hands of a meane Labourer in Gods V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>yard: whoſe pray<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r is, that you may increaſe in wiſdome and ſtature, and in favour with God and man.</p>
+            <closer>
+               <signed>Richard Bifield.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191513:5"/>
+            <head>A CANDLE LIGHT<g ref="char:EOLhyphen"/>ed, at the Lampe of Sacred <hi>Scriptures.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>The firſt part conteining the grounds of Faith.</head>
+               <p>WHere may wee learne that knowledge which will make a man wiſe to his ſalvation.</p>
+               <p>Anſwer. <hi>In the holy ſcripture.</hi> 
+                  <note place="margin">2. <hi>Tim.</hi> 3. 15, 16. 17. <hi>Iohn</hi> 5. 37.</note>
+               </p>
+               <div type="question">
+                  <head>
+                     <hi>Queſt.</hi> How was all Scripture of the old and new Teſtament given?</head>
+                  <p>
+                     <hi>A.</hi> By inſpiration of God: for the <note place="margin">2 tim. 3. 16 2 Pet. 1, 20 21.</note> holy men of God ſpake as they were moved by the Holy Ghoſt.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Hath God revealed all things there<g ref="char:EOLhyphen"/>in neceſſary to ſalvation?</head>
+                  <p>
+                     <hi>A.</hi> Yes: no man may adde there<g ref="char:EOLhyphen"/>to, <note place="margin">Deut. 12 32. Prou. 30. 6.</note> or take there from.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> May a ſimple man learne ſo much by them? <note place="margin">
+                        <hi>Pſal.</hi> 119, 130. 2. <hi>Cor.</hi> 4. 4.</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> The entrance into Gods word giueth light, it giueth vnderſtanding vnto the ſimple.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Seeing they are ſo plaine in all ne<g ref="char:EOLhyphen"/>ceſſary truthes, tell me what they teach you concerning God?</head>
+                  <pb facs="tcp:191513:6"/>
+                  <p> 
+                     <hi>A.</hi> That there is but one God: an Idol is nothing in the world. <note place="margin">1 Cor. 8. 4.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What elſe?</head>
+                  <p>
+                     <hi>A.</hi> That their are three that beare record in heaven, the Father, the word <note place="margin">1 Ioh. 5. 7.</note> and the Holy Ghoſt, and theſe three are one.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> What is this one God who is three in perſons?</head>
+                  <p>
+                     <hi>A.</hi> He is a Spirit, whoſe name is, <note place="margin">Ioh. 4. 24. Exod. 3. 14 1 Tim. 1 17 Gen. 17. 1 Mat. 19. 17</note> 
+                     <hi>I AM,</hi> the eternall, the Almighty, the only wiſe and good.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Wherein did God manifeſt his wiſ<g ref="char:EOLhyphen"/>dome power &amp; goodnes?</head>
+                  <p>
+                     <hi>A.</hi> In that he made the world and <note place="margin">Gen. 1 Heb. 11. 3. Rom. 1. 20.</note> all things therein in the beginning, of nothing, and all very good.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How did he make man?</head>
+                  <p>
+                     <hi>A.</hi> Male &amp; Female, after his owne <note place="margin">Gen. 1. 27.</note> image.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What was this image chiefly?</head>
+                  <p>
+                     <hi>A.</hi> Knowledge, righteouſnes and true holines. <note place="margin">Ephe. 4. 24 Col. 3. 10.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> Did man remaine thus righteous?</head>
+                  <p>
+                     <hi>A.</hi> No: they ſought out many in<g ref="char:EOLhyphen"/>ventions. <note place="margin">Eccle. 7. 29</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q<g ref="char:punc">▪</g>
+                     </hi> How did they fall?</head>
+                  <p>
+                     <hi>A. Adam</hi> and <hi>Eue</hi> did eate of that <note place="margin">Gen. 3. 1. 6<g ref="char:punc">▪</g>
+                     </note> fruite of which God had ſaid <hi>yee ſhall</hi>
+                     <pb facs="tcp:191513:6"/> not eate of it, <hi>Eve</hi> firſt was beguiled by the Serpen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, then gaue to her hus<g ref="char:EOLhyphen"/>band, <hi>and</hi> he did eate.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> But that they ſinned and fell, what is that to vs?</head>
+                  <p>
+                     <hi>A.</hi> By one man ſinne entred into <note place="margin">Rom. 5. 12</note> the world, and death by ſinne, and ſo death paſſed on all men, in whom all haue ſinned.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is our estate then by nature?</head>
+                  <p>
+                     <hi>A.</hi> All men are borne in ſinne &amp; <note place="margin">Rom. 3. 23 Pſa. 51, 5, Iob, 11. 12 &amp;, 15. 14. Gen. 8. 21, 1, Ioh. 3. 4</note> liue therein from their youth vp.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is ſinne?</head>
+                  <p>
+                     <hi>A.</hi> The tranſgreſſion of Gods Law.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> What is the wages of ſinn?</head>
+                  <p>
+                     <hi>A.</hi> Death.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> When God had made the world. <note place="margin">
+                        <hi>Rom.</hi> 6. 32</note> doth he leaue it without regard?</head>
+                  <p>
+                     <hi>A.</hi> Not ſo: he ſeeth and vpholdth <note place="margin">Pro. 15. 3, Heb, 1, 3</note> all by the word of his power.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Doth this his prouidence reach to all?</head>
+                  <p>
+                     <hi>A.</hi> Yea to the <hi>Sparrowe</hi> lightning <note place="margin">Mat, 10, 29 30,</note> on the ground, and the numbring of the haires of our head.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> He ſaueth then both man &amp; beaſt? <note place="margin">
+                        <hi>Pſa,</hi> 39, 6 1 <hi>Cor,</hi> 9. 9<g ref="char:punc">▪</g> 10, 1 <hi>Tim.</hi> 4, 10,</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> True, but his care is generall over all; but more eſpecially towards them that beleeue</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:7"/>
+                  <head>
+                     <hi>Q.</hi> Yet many miſeries befall men?</head>
+                  <p>
+                     <hi>A.</hi> The Lord doth it. <note place="margin">Amos 3. 6.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> But if the Lord guide all, how com<g ref="char:EOLhyphen"/>eth ſinne into the world, is he the author of ſinne?</head>
+                  <p>
+                     <hi>A.</hi> No; yet he hath made all things for himſelfe even the wicked for the <note place="margin">pſal 5. 4, 5. Pro. 16. 4.</note> day of evill.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> God is holy then, when we are wick<g ref="char:EOLhyphen"/>ed: what ſhall be come of man?</head>
+                  <p>
+                     <hi>A.</hi> He muſt periſh for euer but for the Chriſt of God. <note place="margin">Hoſ 13. 9. Mat. 16. 26</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Who is the Chriſt, the Sonne of God that was promiſed ſhould come into the world?</head>
+                  <p>
+                     <hi>A.</hi> Ieſus of Nazareth. <note place="margin">Ioh 11. 27. &amp; 8. 24,</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What was his office?</head>
+                  <p>
+                     <hi>A.</hi> To ſaue his people from their <note place="margin">Mat. 1. 21.</note> ſinnes, and therefore called Ieſus the Sauiour.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Did any helpe in this worke?</head>
+                  <p>
+                     <hi>A.</hi> Not any; there is but one medi<g ref="char:EOLhyphen"/>ator <note place="margin">1 Tim. 2. 5.</note> betweene God and man.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Were our workes or ought in vs, the cauſe of this ſalvation?</head>
+                  <p>A. Wee are ſaued according to Gods grace i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſt Ieſus, and not ac<g ref="char:EOLhyphen"/>cording to our workes or ought in vs. <note place="margin">2 Tim. 1. 9.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How then are we ſaued by Christ?</head>
+                  <pb facs="tcp:191513:7"/>
+                  <p> 
+                     <hi>A.</hi> A new couenant or agreement <note place="margin">Ier. 31. 31<g ref="char:punc">▪</g> 32. 33. 34. Ioh. 3. 16 1. Ioh. 2. 25</note> is giuen to vs in him, wherein God promiſeth to bee our God and to giue forgiueneſſe of ſins and life euerlaſt<g ref="char:EOLhyphen"/>ing to euery one that beleiueth in Chriſt.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How came we to vnderſtand this? <note place="margin">
+                        <hi>Act.</hi> 3. 22. 23. <hi>Iohn</hi> 118. <hi>&amp;</hi> 17. 26.</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Chriſt Ieſus is the great Pro<g ref="char:EOLhyphen"/>phet, and hath revealed the whole councell of his father.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When?</head>
+                  <p>
+                     <hi>A.</hi> By the Prophets and Apoſtles, and in theſe laſt dayes by himſelfe here <note place="margin">Heb. 1. 1.</note> on earth.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> But our ſins ſeparat God &amp; vs?</head>
+                  <p>
+                     <hi>A.</hi> He is a Prieſt for euer after the <note place="margin">Heb. 6. 20. &amp; 2. 17. pſal. 110. 4</note> order of <hi>Melchiſedech</hi> to make reconci<g ref="char:EOLhyphen"/>liation for our ſins.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> But the enemies of our ſaluation, he fleſh the world &amp; the diuel are mighty?</head>
+                  <p>
+                     <hi>A.</hi> He is our King and Lawgiuer. <note place="margin">Eſa. 33. 22. 24.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What kind of Kingdome is his?</head>
+                  <p>
+                     <hi>A.</hi> His kingdome is not of this <note place="margin">Ioh 18. 36. Rom. 14. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orld, neither conſiſteth in meate and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rinke, but in righteouſneſſe, peace, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd ioy in the Holy Ghoſt<g ref="char:punc">▪</g>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Who may be ſubiects <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> this king<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome?</head>
+                  <p>
+                     <hi>A.</hi> Any of all Nations. <note place="margin">Pſal. 2. 8.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:8"/>
+                  <head>
+                     <hi>Q.</hi> How long laſteth it?</head>
+                  <p>
+                     <hi>A.</hi> For euer. <note place="margin">Luke, 1. 33 Dan, 2, 44.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When was he ordained of God to this great worke?</head>
+                  <p>
+                     <hi>A.</hi> From before the foundation of <note place="margin">1 Pet, 1, 20</note> the world.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When was he manifeſted?</head>
+                  <p>
+                     <hi>A.</hi> In theſe laſt times, the fulnes <note place="margin">Gal, 4, 4</note> of time.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How?</head>
+                  <p>
+                     <hi>A.</hi> The ſonne of God tooke on him the ſeed of <hi>Abraham,</hi> and was in <note place="margin">Heb, 2, 16, &amp; 4, 15</note> all things like vs, ſin only excepted.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How did he become fleſh?</head>
+                  <p>
+                     <hi>A.</hi> He was conceiued by the Holy <note place="margin">Luke, 1, 35 Mat, 1, 18. 23,</note> Ghoſt and borne of the virgine Mary.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> He was not then ſinfull as we are?</head>
+                  <p>
+                     <hi>A.</hi> He did not ſinne, neither was guile found in his mouth. <note place="margin">1 Pet, 2. 22</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> That he is righteous, what is that to vs?</head>
+                  <p>
+                     <hi>A.</hi> Hee is the end of the Law for <note place="margin">Rom, 10, 4 5. 6, 7, 8, 9,</note> righteouſneſſe, to evety one that be<g ref="char:EOLhyphen"/>leeveth.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What elſe did he for vs and for our ſaluation?</head>
+                  <p>
+                     <hi>A.</hi> He humbled himſelfe and be<g ref="char:EOLhyphen"/>came obedient to the death, even the <note place="margin">Phil, 2, 6. 7. 8,</note> death of the croſſe.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:8"/>
+                  <head>
+                     <hi>Q.</hi> That was an accurſſed death?</head>
+                  <p>
+                     <hi>A.</hi> He was made a curſe for vs. <note place="margin">Gal, 3, 13,</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q,</hi> Did he ſuffer any thing elſe?</head>
+                  <p>
+                     <hi>A.</hi> He was buryed and layd three <note place="margin">1 Cor, 5, 4</note> dayes and three nights in the heart of the earth. <note place="margin">Mat, 12, 40</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q:</hi> Was n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thing here to be conſidered but the mallice of the Iewes<g ref="char:punc">▪</g>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Yes chiefly we muſt note he was <note place="margin">Act, 4, 27<g ref="char:punc">▪</g> 28</note> delivered therevnto, by the determi<g ref="char:EOLhyphen"/>ned counſell of God.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> Why was the Lord pleaſed thus to bru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him?</head>
+                  <p>
+                     <hi>A.</hi> He was our ſuretie &amp; was wou<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ded <note place="margin">Heb, 7. 22, Eſa, 53, 5, 6</note> for our tranſgreſſions, and on him was the chaſtiſement of our peace; for the Lord layd on him the iniquities of us all.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What benefite reape we thereby? <note place="margin">1 <hi>Pet,</hi> 2, 24 <hi>Eph,</hi> 2, 14, 16 <hi>Col,</hi> 1, 20, 21 <hi>Act,</hi> 2, 24, 1 <hi>Cor,</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 4,</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Our peace is made with God &amp; with his ſtripes we are healed.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Was he holden downe of death?</head>
+                  <p>
+                     <hi>A.</hi> It was impoſſible he ſhould, he roſe againe the third day, according to the ſcriptures.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What followed after his reſurrecti<g ref="char:EOLhyphen"/>on<g ref="char:punc">▪</g>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Hee aſcended vp on high and <note place="margin">Pſa, 68. 18, Ephe, 4, 8<g ref="char:punc">▪</g>
+                     </note> led captivity captine: and gaue gifts
+<pb facs="tcp:191513:9"/> to men, euen to the religious that the Lord might dwell among them.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is that glory the father hath beſtowed on him? <note place="margin">
+                        <hi>Pſal</hi> 110. 1. <hi>Heb,</hi> 8. 1.</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Hee ſitteth on the right hand of the Throne of Maieſtie in Heauen.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How long muſt he thus ſit?</head>
+                  <p>
+                     <hi>A,</hi> He muſt raigne till the Father <note place="margin">1. Cor. 15. 15.</note> hath put all his enemies vnder his feet.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is his ſpeciall worke now at the right hand of his Father?</head>
+                  <p>
+                     <hi>A.</hi> He euer liueth there to make <note place="margin">Heb. 7. 25. 26.</note> requeſt for us.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> For whom maketh he requeſt?</head>
+                  <p>
+                     <hi>A.</hi> Not for the world, but the elect <note place="margin">Ioh, 17, 9.</note> only.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Doe not Angels and Saints make interceſſion for vs?</head>
+                  <p>
+                     <hi>A. Abraham</hi> is ignorant of vs and <hi>Iſraell</hi> knoweth vs not. <note place="margin">Eſa, 63, 16,</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How long muſt the heauens re<g ref="char:EOLhyphen"/>ceiue our Sauiour?</head>
+                  <p>
+                     <hi>A.</hi> Vntill the time of the reſtituti<g ref="char:EOLhyphen"/>on of all things. <note place="margin">Act, 3, 21.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When ſhall that be?</head>
+                  <p>
+                     <hi>A.</hi> At the day of iudgment?</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Shall their be ſuch a day?</head>
+                  <p>
+                     <hi>A.</hi> Yea: God hath appointed a day in the which hee will judge the world <note place="margin">Act, 17, 31</note>
+                     <pb facs="tcp:191513:9"/> in righteouſneſſe:</p>
+               </div>
+               <div type="question">
+                  <head>Q. When ſhall this be?</head>
+                  <p>
+                     <hi>A.</hi> Of that day and houre know<g ref="char:EOLhyphen"/>eth no man, but it ſhall be in the end <note place="margin">Mar, 13<g ref="char:punc">▪</g> 32 Mat, 13, 40 Ioh, 6, 44. Rev. 10, 6.</note> of the world, at the laſt day, in the laſt time; when time ſhall be no more.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Who ſhall be iudge?</head>
+                  <p>
+                     <hi>A.</hi> Ieſus Chriſt as he is the ſonne of man, who<g ref="char:cmbAbbrStroke">̄</g> we ſhall ſee come in like <note place="margin">Ioh, 5, 22. 27. Act, 1, 11.</note> manner as the diſciples ſaw him goe vp into Heauen.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Who ſhall be iudged?</head>
+                  <p>
+                     <hi>A.</hi> All both iuſt and vniuſt, ſmall <note place="margin">2 Tim, 4, 1, Reu, 20. 12, 13. Rome 14 12.</note> and great, quicke and dead, euery one ſhall giue account of himſelfe to God.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Of what ſhall they be iudged?</head>
+                  <p>
+                     <hi>A.</hi> Of all they haue done in their bodyes, that is while they liued in <note place="margin">2 Cor 5. 10. Eccleſ. 12, 14, Mat, 10. 36,</note> their bodies, euen euery ſecret thing, euery idle word, the hid things of darkeneſſe and the counſell of their harts.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How ſhall men receiue their iudg<g ref="char:EOLhyphen"/>ment?</head>
+                  <p>
+                     <hi>A.</hi> According to that they haue done, whether good or bad. <note place="margin">2 Cor. 5, 10.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Well is it with them that are in Christ, for to them is no condemnation: who are in him?</head>
+                  <pb facs="tcp:191513:10"/>
+                  <p> 
+                     <hi>A.</hi> They that haue the Spirit of <note place="margin">Rom. 81. 9.</note> Chriſt.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is this Spirit?</head>
+                  <p>
+                     <hi>A.</hi> The Holy Ghoſt, who proceed<g ref="char:EOLhyphen"/>eth <note place="margin">Ioh. 15. 26. Act. 5. 3<g ref="char:punc">▪</g> 4. Mar. 3. 19.</note> from the Father &amp; the Sonne and is God equall with the father and the Sonne.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Where might wee pertake of this ſpirit?</head>
+                  <p>
+                     <hi>A.</hi> In the word whereby he work<g ref="char:EOLhyphen"/>eth ſtill, as once he ſpake by the Pro<g ref="char:EOLhyphen"/>phets <note place="margin">Eſa. 59. 21.</note> and Apoſtles.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is his ſpeciall and peculiar worke in them that ſhall be ſaued?</head>
+                  <p>
+                     <hi>A.</hi> The new birth, for hee is the ſanctifier of the Church. <note place="margin">Io<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 3. 5.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What elſe doth he?</head>
+                  <p>
+                     <hi>A,</hi> Hee preſerueth vs in the eſtate of ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ines for euer.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How?</head>
+                  <p>
+                     <hi>A.</hi> By leading vs into all trueth, by <note place="margin">Ioh. 14. 26. 1 Ioh. 2. 27 Rom 8. 14<g ref="char:punc">▪</g> Z<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 12. 10. Ephe. 4. 30.</note> bringing all things to our remem<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ance, by being in vs a ſpirit of adop<g ref="char:EOLhyphen"/>tion, of prayer, of counſell, of truth, &amp; ſealing vs<g ref="char:punc">▪</g> vp to the day of redemp<g ref="char:EOLhyphen"/>tion.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is ſanct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fication?</head>
+                  <p>
+                     <hi>A.</hi> To die to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in and to riſe againe <note place="margin">Rom<g ref="char:punc">▪</g> 6. 4. &amp; 8. 10 1 per 2. 24.</note> to newn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe of life.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:10"/>
+                  <head>
+                     <hi>Q.</hi> Is this of abſolute neceſſity?</head>
+                  <p>
+                     <hi>A.</hi> Elſe we ſhall neuer ſee God. <note place="margin">Heb 12, 14 Math. 5. 8.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Are any perfectly holy in this life?</head>
+                  <p>
+                     <hi>A.</hi> Noe: we know in part, and be<g ref="char:EOLhyphen"/>leeue <note place="margin">1 Cor, 13. 9. 10.</note> in part.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> May one then haue a good hart to God who is of an euill life?</head>
+                  <p>
+                     <hi>A.</hi> Thoſe that are ſanctified, are <note place="margin">1 Theſ. 5. 23.</note> ſanctified throughout both in ſoule and body and ſpirit.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Can ſuch ſinne to death?</head>
+                  <p>
+                     <hi>A.</hi> He that is borne of God can<g ref="char:EOLhyphen"/>not <note place="margin">1 Ioh. 3. 9. &amp; 5. 16. 17. 18.</note> ſinne, becauſe his ſeed abideth in him.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q:</hi> What is the chiefe grace of the ſpi<g ref="char:EOLhyphen"/>rit in our new birth?</head>
+                  <p>
+                     <hi>A.</hi> Faith which purifieth the heart, <note place="margin">2 Cor. 4. 13. Act 15. 9. Gal 5. 6.</note> and worketh by loue.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is faith?</head>
+                  <p>
+                     <hi>A.</hi> The beleife of the truth, or the <note place="margin">2 The 2. 13 Iohn 1. 12.</note> receiuing of Chriſt as he is offered in the promiſes of the goſpell.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How doth the Holy Ghoſt work this faith in vs?</head>
+                  <p>
+                     <hi>A.</hi> By hearing the word preached. <note place="margin">Rom 10. 14</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> In whom is this ſanctification of the ſpirit and beleife of the truth wrought?</head>
+                  <p>
+                     <hi>A.</hi> In thoſe only whom God hath from the beginning choſen to ſaluati<g ref="char:EOLhyphen"/>on. <note place="margin">2 The 2. 13 Act 13. 48.</note>
+                     <pb facs="tcp:191513:11"/> And praedeſtinated to the adop<g ref="char:EOLhyphen"/>tion of children by Ieſus chriſt to him<g ref="char:EOLhyphen"/>ſelfe. <note place="margin">Eph. 1. 4, 5.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Is faith a common guift?</head>
+                  <p>
+                     <hi>A.</hi> No; all men hath not faith ther<g ref="char:EOLhyphen"/>fore it is called the faith of Gods elect. <note place="margin">2 Theſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 2. Tit. 1. 1.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What moued God to chuſe ſome &amp; paſſe by others?</head>
+                  <p>
+                     <hi>A.</hi> The good pleaſure of his owne <note place="margin">Ephe. 1. 5. 6.</note> will, to the praiſe of the glorie of his grace.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How doth he bring his choſen to ſaluation?</head>
+                  <p>
+                     <hi>A.</hi> Whome he foreknew, them he predeſtinated to be conformed to the <note place="margin">Rom. 8. 29 30.</note> image of his ſonne, whom he predeſti<g ref="char:EOLhyphen"/>nated, them he calleth, whom he cal<g ref="char:EOLhyphen"/>leth them he iuſtifieth, and whom he iuſtifieth, them he glorifieth.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What are thoſe his choſen called?</head>
+                  <p>
+                     <hi>A.</hi> The Church, becauſe they are <note place="margin">Ioh. 17. 14.</note> a company called out of the world by the voyce of Gods cryers, his miniſ<g ref="char:EOLhyphen"/>ters.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Was there euer a church of God vp<g ref="char:EOLhyphen"/>on earth, and ſhall there bee ſo to the end?</head>
+                  <p>
+                     <hi>A.</hi> Yes, the foundation of Gods election remaineth ſure, and Chriſt <note place="margin">2 Tim. 2. 19.</note> is the rocke on which it is builded ſo
+<pb facs="tcp:191513:11"/> that the gates of hell ſhall not preuaile <note place="margin">Mat. 16. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> againſt it.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How is this Church noted out?</head>
+                  <p>
+                     <hi>A.</hi> Shee is holy. <note place="margin">Ephe. 5. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 27.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How elſe?</head>
+                  <p>
+                     <hi>A.</hi> Shee is catholique for in euerie <note place="margin">Act. 10. 34. 35.</note> nation he that feareth God and work<g ref="char:EOLhyphen"/>eth righteouſnes is accepted of him.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Who is the head of this Church?</head>
+                  <p>
+                     <hi>A.</hi> Ieſus Chriſt alone. <note place="margin">Ephe. 1. 22. 23. Col. 1. 18.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the condition of the Church in this life?</head>
+                  <p>
+                     <hi>A.</hi> Shee is militant, ſubiect to croſ<g ref="char:EOLhyphen"/>ſes, <note place="margin">Mat. 16. 24. 25. Ephe. 6. 12.</note> afflictions, temptations and perſe<g ref="char:EOLhyphen"/>cutions of all ſorts.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Doth the benefit of Chriſt death &amp; reſurrection belong to all?</head>
+                  <p>
+                     <hi>A.</hi> No, they belong onely to the <note place="margin">Ephe. 5. 25.</note> Church.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Where is this Church to be found?</head>
+                  <p>
+                     <hi>A.</hi> Where the word of God is ſen<g ref="char:EOLhyphen"/>cerely preached, and embraced, and <note place="margin">Ephe. 5. 26. Mat. 28. 19, 20.</note> the Sacraments according to Chriſts inſtitution adminiſtred, there the Lord hath his Church.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the ſigne of a true viſible Church?</head>
+                  <p>
+                     <hi>A.</hi> That ſhee bee Apoſtolique, that is built on the foundation of the Pro<g ref="char:EOLhyphen"/>phets <note place="margin">Ephe. 2. 19, 20, 22.</note>
+                     <pb facs="tcp:191513:12"/> and Apoſtles doctrine.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Is there not vnity in the Church?</head>
+                  <p>
+                     <hi>A.</hi> There is but one body, one ſpi<g ref="char:EOLhyphen"/>rit, one hope of your calling, one <note place="margin">Ephe 4. 4. 5. 6.</note> Lord, one faith, one Baptiſme, one God and Father of all, who is aboue all, through all, and in them all.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What ariſeth hence?</head>
+                  <p>
+                     <hi>A.</hi> The communion and fellow<g ref="char:EOLhyphen"/>ſhip of all the Saints who are copart<g ref="char:EOLhyphen"/>ners <note place="margin">1 Cor. 12. 14. 25. 26. 27.</note> in all good things.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What ſpeciall benefit is purchaſed by Chriſt, and conferred on his Church in this life.</head>
+                  <p>
+                     <hi>A.</hi> Forgiuenes of ſinnes. <note place="margin">Ephe. 1. 7.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> But the Church is holy?</head>
+                  <p>
+                     <hi>A.</hi> True, but by vertue of forgiu<g ref="char:EOLhyphen"/>neſſe of ſinnes, for ſeeing in this life none is without ſinne, therefore the <note place="margin">Pſal. 32. 1.</note> Church cannot conſiſt here, without forgiuenes, every day.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Muſt every member of the Church know that he is a ſinner?</head>
+                  <p>
+                     <hi>A.</hi> Every one muſt feelingly know what neede he hath of forgiuenes, in <note place="margin">1, Iohn 1. 8 10. Pſal, 32. 3. 4. 5. Pſal. 18. 23.</note> reſpect both of his corruption of na<g ref="char:EOLhyphen"/>ture, tranſgreſſions of heart and life, and the perſonall ſinnes to which he is more inclined.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:12"/>
+                  <head>
+                     <hi>Q.</hi> What is this forgiuenes?</head>
+                  <p>
+                     <hi>A.</hi> It is, when the Lord eſteemeth <note place="margin">Pſal. 32. 1 Mic. 7. 18. 19.</note> our ſinnes as if they had never beene comitted, ſo that he will neither pu<g ref="char:EOLhyphen"/>niſh vs for them in this world, nor the world to come.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> May theſe that haue their ſinnes forgiuen, liue as they liſt?</head>
+                  <p>
+                     <hi>A.</hi> No indeed, forgiuenes is gran<g ref="char:EOLhyphen"/>ted <note place="margin">Luke 13. 3</note> only to them that truely repent &amp; bring forth fruits worthy amendment of life.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is in man to moue God to forgiue?</head>
+                  <p>
+                     <hi>A.</hi> It is only Gods free grace, and <note place="margin">Rom. 3. 24.</note> nothing in man.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Can this ſtand with his iuſtice, to account a ſinner righteous he being yet a ſinner?</head>
+                  <p>
+                     <hi>A.</hi> Chriſts righteouſnes is given of <note place="margin">1 Cor. 1. 30<g ref="char:punc">▪</g> 2 Cor. 5. 21.</note> God to be ours, and our ſinnes are for<g ref="char:EOLhyphen"/>given through the death and bloud ſhedding of Chriſt, wherby the iuſtice of God is fully ſatisfied.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How are we made partakers of this righteouſnes of Chriſt?</head>
+                  <p>
+                     <hi>A.</hi> By faith only. <note place="margin">Rom. 3. 25 28.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Doth not God iuſtifie vs for our works?</head>
+                  <pb facs="tcp:191513:13"/>
+                  <p> 
+                     <hi>A.</hi> By the works of the Law, no fleſh can be iuſtified in the ſight of God. <note place="margin">Rom. 3. 20.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the fruite of this iuſtifica<g ref="char:EOLhyphen"/>tion by faith?</head>
+                  <p>
+                     <hi>A.</hi> Being iuſtified by faith we haue <note place="margin">Rom. 5. 1.</note> peace with God.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> Who are appoynted of God to diſpenſe this grace?</head>
+                  <p>
+                     <hi>A.</hi> The Miniſters of the goſpell: ſo that whoſe ſinnes ſoever they remitt <note place="margin">Ioh. 20. 23. Mat. 16. 18.</note> according to this word, they are re<g ref="char:EOLhyphen"/>mitted, and whoſe ſinnes they retaine according to the ſame goſpell, they are retayned.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What benefite do we beleeue we ſhall receiue from Chriſt in another world?</head>
+                  <p>
+                     <hi>A.</hi> The reſurrection of our bodies now layd in the duſt: in which reſur<g ref="char:EOLhyphen"/>rection <note place="margin">Iob. 19. 25, 26, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Act. 24. 15. Ioh. 5. 28, 29.</note> both iuſt &amp; vniuſt ſhall be rai<g ref="char:EOLhyphen"/>ſed, thoſe that haue done evill to the Reſurrection of condemnation, and thoſe that haue done well, to the Re<g ref="char:EOLhyphen"/>ſurrection of life.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Is life eternall the wages of righte<g ref="char:EOLhyphen"/>ouſnes: as death is the wages of ſinne?</head>
+                  <p>
+                     <hi>A.</hi> Noe, it is the end of an holy life, but altogether the guift of God <note place="margin">Rom. 6. 22. 23.</note> through Ieſus Chriſt our Lord.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How hath God confirmed to vs this
+<pb facs="tcp:191513:13"/> mercy and redemption wrought by Ieſus Chriſt, for the ſtrengthning of our faith?</head>
+                  <p>
+                     <hi>A.</hi> By word, by oath, and by his <note place="margin">Heb. 6. 17, 18.</note> ſeales.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What are thoſe Seales?</head>
+                  <p>
+                     <hi>A.</hi> His two Sacraments, Baptiſme, and the Lords ſupper.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is a Sacrament?</head>
+                  <p>
+                     <hi>A.</hi> A ſigne giuen of God to bee a <note place="margin">Rom. 4. 11.</note> Seale of rhe righteouſneſſe of faith.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is this righteouſneſſe of faith?</head>
+                  <p>
+                     <hi>A.</hi> The righteouſneſſe of Ieſus Chriſt, brought in by his obedience to the death, which is made ours by faith onely.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How are the Sacraments to be v<g ref="char:EOLhyphen"/>ſed by vs.</head>
+                  <p>
+                     <hi>A.</hi> As bonds and vowes, and ſo<g ref="char:EOLhyphen"/>lemne profeſſions of our deſires and <note place="margin">Rom. 6. 3.</note> indeauors after the beginning and fi<g ref="char:EOLhyphen"/>niſhing of our faith and repentance.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the outward ſigne in Bap<g ref="char:EOLhyphen"/>tiſme?</head>
+                  <p>
+                     <hi>A.</hi> The miniſters waſhing or ſprin<g ref="char:EOLhyphen"/>kling <note place="margin">Mat. 28. 19.</note> the beleeuer with wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er in the name of the Father, and of the Sonne, and of the Holy Ghoſt.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is ſignifyed and ſealed hereby to the beleeuing penitent?</head>
+                  <pb facs="tcp:191513:14"/>
+                  <p> 
+                     <hi>A.</hi> The waſhing of the new birth <note place="margin">Tit<g ref="char:punc">▪</g> 3. 5. Heb. 9. 13. 1 Pet. 1. 2.</note> by the ſpirit of Chriſt, and the purging of the conſcience from dead workes, by the ſprinkling of Chriſts blood thereupon by the ſame ſpirit of faith.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What elſe doth baptiſme aſſure vs of?</head>
+                  <p>
+                     <hi>A.</hi> Of our adoption, our ingrafting <note place="margin">Gal. 3. 27. Col. 2. 11. 12. Rom. 6. 5. Math. 3. 7. 1 Pet. 3. 17 18. Gal. 3 27. 1 Cor. 12. 13. &amp; 15. 29. Rom. 6. 8.</note> into Chriſt, our deliuer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce from Gods wrath, the forgiueneſſe of our ſins, the communion with the ſaints, and the reſurrection of our bodies to life eter<g ref="char:EOLhyphen"/>nall.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the outward ſigne in the Lordes ſupper?</head>
+                  <p>
+                     <hi>A.</hi> Bread and wine, bleſſed, bro<g ref="char:EOLhyphen"/>ken, <note place="margin">Mat. 26. 26, 27.</note> powred out, and giuen by the mi<g ref="char:EOLhyphen"/>niſter, and receiued, eaten and drunke by the faithfull.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is ſignifyed &amp; ſealed hereby?</head>
+                  <p>
+                     <hi>A.</hi> The body and blood of Chriſt crucifyed and ſhed on the Croſſe for <note place="margin">1. Cor. 11. 24, 25.</note> the remiſſion of our ſinnes: which is offered by Chriſt in the word of pro<g ref="char:EOLhyphen"/>miſe, and verely and indeed, receiued by the beleeuer in this ſacrament.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Is it enough to receiue the bread and wine?</head>
+                  <p>
+                     <hi>A.</hi> No, for we may eate and drinke <note place="margin">1. Cor. 11. 27. 29.</note>
+                     <pb facs="tcp:191513:14"/> our owne damnation, if wee diſcerne not the Lords body.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is then to be done before we come?</head>
+                  <p>
+                     <hi>A.</hi> We muſt examine our ſelues, and iudge our ſelues for our ſins, and <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 1 Cor. 11. 28. 31. 1. Cor. 5. 7.</note> muſt purge out the old leauen of hy<g ref="char:EOLhyphen"/>pocriſy, falſe doctrine, malice, and wickedneſſe.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> And what are you to do in receiuing?</head>
+                  <p>
+                     <hi>A.</hi> To keepe a ſolemne remembe<g ref="char:EOLhyphen"/>rance of Chriſts death for my ſinnes, and to eate this Lambe with the ſower <note place="margin">1 Cor. 11. 25. 26. Exod 12. 8.</note> hearbs of godly ſorrow.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How ought you to bee affected to<g ref="char:EOLhyphen"/>wards the godly?</head>
+                  <p>
+                     <hi>A.</hi> With the affections of brother<g ref="char:EOLhyphen"/>ly loue, as being one bread and one body, cleauing to their fellowſhip and forſaking all idolatrous and wicked ſo<g ref="char:EOLhyphen"/>cietie. <note place="margin">1 Cor. 10. 16. 17. 21. Pſal. 26. 4. 5 6.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is to be done after you haue receiued?</head>
+                  <p>
+                     <hi>A.</hi> To liue all our dayes in holy ioy, keeping the feaſt in vnleauened bread of ſincerity and truth, and neuer to entertaine the leauen of our for<g ref="char:EOLhyphen"/>mer <note place="margin">1. Cor. 5. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> ſinnes.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How muſt our thirſt after this Sa<g ref="char:EOLhyphen"/>crament bee raiſed in vs?</head>
+                  <pb facs="tcp:191513:15" rendition="simple:additions"/>
+                  <p> 
+                     <hi>A.</hi> By weighing the multitude of our ſinnes, and the neceſſity of being <note place="margin">1 Tim. 1. 15. Ioh, 6. 53.</note> made partakers of Chriſts death, that they might be forgiuen vs, together with the force of this ordinance to make vs partakers thereof.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the force of it?</head>
+                  <p>
+                     <hi>A.</hi> In the right vſe of it, it is the communion of Chriſts body &amp; blood, <note place="margin">1 Cor. 10. 16. Mat. 26. 26. 28.</note> it is his body and blood crucified on the Croſſe for vs.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What els might excite this thirstin vs?</head>
+                  <p>
+                     <hi>A.</hi> The command of Chriſt who ſaith, do this in remembrance of me: &amp; <note place="margin">1 Cor. 11. 24, 25.</note> the weakenes of Gods graces in vs.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part conteining the rules of life.</head>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What doth the grace of God which bringeth ſaluation teach vs?</head>
+                  <p>
+                     <hi>A.</hi> To deny vngodlineſſe and world<g ref="char:EOLhyphen"/>ly <note place="margin">Tit. 2. 11, 12, 13.</note> luſts, and to liue godly, righteouſly and ſoberly in this preſent world, loo<g ref="char:EOLhyphen"/>king for the bleſſed hope of the life to come.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How may I know godlineſſe from vngodlineſſe, and worldly luſts from righ<g ref="char:EOLhyphen"/>teouſneſſe and ſobriety?</head>
+                  <p>
+                     <hi>A.</hi> By the law of God conteined in <note place="margin">Rom. 7. 7. 9 10. Heb. 4. 12. with Ier 17. 10.</note> ten Commandements, and by the pre<g ref="char:EOLhyphen"/>cepts of the Goſpell.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:15"/>
+                  <head>
+                     <hi>Q.</hi> But we are not vnder the law, but under grace?</head>
+                  <p>
+                     <hi>A.</hi> We are not vnder the curſe of it, <note place="margin">Gal 3, 13. Rom 10. 5. 6. Iam 1, 25<g ref="char:punc">▪</g> Pſa, 119, 1. Mat. 5, 17 18, 19.</note> nor vnder it as it is the couenant of workes which ſaith, doe this and liue: but as it as a glaſſe to ſhew vs our ſpots and the rule of holy life.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Giue me the ſumme of the ten Com<g ref="char:EOLhyphen"/>mandements?</head>
+                  <p>
+                     <hi>A.</hi> Thou ſhalt loue the Lord thy <note place="margin">Mat. 22, 37<g ref="char:punc">▪</g> 38. 39.</note> God with all thy heart, with all thy ſoule, and with all thy mind, and thy neighbour as thy ſelfe.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> Rehearſe the firſt Commandement?</head>
+                  <p>
+                     <hi>A.</hi> I am the Lord thy God: Thou ſhalt haue no other Gods but mee. <note place="margin">Exod. 20. 1. 2.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is here required?</head>
+                  <p>
+                     <hi>A.</hi> Firſt to haue the Lord Iehouah for our God. <note place="margin">Ierm 24. 7. &amp; 9, 23, 24 Rom 1. 19, 20. Pro. 2. 1 5, 6. Ier. 8. 9 2 Chro. 20. 20. Deut. 6. 4, 5. pſa. 37. 4. Mal. 1. 6. Deut. 10. 20. Pſal. 37. 7. and 142. 6. and 628. Deut. 10. 12, 13. and 11. 26, 27, 28. Mic. 6. 6. 8.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is it to haue God for our God</head>
+                  <p>
+                     <hi>A.</hi> It is to haue him in our mindes, to know him as he hath reuealed him<g ref="char:EOLhyphen"/>ſelfe in his word and works; and in our hearts and affections to beleiue in him; loue him, delight in him, and feare him, to poure out our ſoules to him, &amp; to obey him as God, humbling our ſelues to walke with him.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:16"/>
+                  <head>
+                     <hi>Q.</hi> What hath the knowledge of God in the nature of it.</head>
+                  <p>
+                     <hi>A.</hi> The acknowledgement of God <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Titus. 1. 1. Hoſe. 6. 3. Amos. 5. 6. Iob. 22. 21. Eſay 64. 5. Pſal. 16. 8.</note> and his truth, elſe we may know an I<g ref="char:EOLhyphen"/>doll: the ſeeking after God, becauſe we know but in part, the acquainting our ſelues with him, and the remem<g ref="char:EOLhyphen"/>brance of him ſetting him alwayes be<g ref="char:EOLhyphen"/>fore vs.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What hath faith in it?</head>
+                  <p>
+                     <hi>A.</hi> The perſuaſion of the truth of <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Act. 11. 23. Lam 3. 24. Pſal. 119. 111.</note> his word, and the cleauing to God as our portion, and to his promiſes as our heritage.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the nature of loue?</head>
+                  <p>
+                     <hi>A.</hi> To vnite our hearts vnto God <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Pſal. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3. 8. &amp; 73. 25.</note> alone, and to cauſe vs to reſt in the fruition of him, vſing all things beſides to this end.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> That m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt needes breede delight: what is found in the nature thereof?</head>
+                  <p>
+                     <hi>A.</hi> Spirituall ſatisfaction, a ioyfull <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Pſal. 63. 5. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nt. 1. 2. Pſa 111. 2. &amp; 71. 15, 16. &amp; 34. 2.</note> enterteinment of all the paſſages of his loue, a delightfull contemplation of his mercies, an extolling of his prayſes &amp; the ſoules boaſting her ſelfe in him.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is in the feare you ſpake of?</head>
+                  <p>
+                     <hi>A.</hi> The reuerence of Gods maie<g ref="char:EOLhyphen"/>ſtie <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Deut. 28. 58. Eſa. 66. 2<g ref="char:punc">▪</g> Pſal. 5. 8.</note> in his names, worſhip, word and
+<pb facs="tcp:191513:16"/> workes, the dreading of his holy Iu<g ref="char:EOLhyphen"/>ſtice, <note place="margin">Ier. 5. 22. Reu. 15. 3, 4 Pſal. 90. 11. Hoſe. 3. 5.</note> and the feare to offend him that is ſo gracious.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the nature of hope? <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Rom.</hi> 8. 24, 25. <hi>Pſa.</hi> 37. 7. <hi>&amp;</hi> 39. 9. <hi>&amp;</hi> 4, 5. 1 <hi>Sa.</hi> 3. 18. <hi>Pſal.</hi> 37. 4.</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> To waite on God with patience, with ſilence in our ſoules from reſtleſſe thoughts, and reſignation of our ſelues and our wayes to his diſpoſing.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How are theſe graces exerciſed?</head>
+                  <p>
+                     <hi>A.</hi> In pouring out our ſoules before the Lord in prayer and prayſes. <note place="margin">Pſa. 62. 8. al the pſalmes and prayers of Gods Saints.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How is the truth of them tried?</head>
+                  <p>
+                     <hi>A.</hi> By obedience to God in all <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 1 Ioh. 2. 3. Rom. 16. Iohn 14. 15. Pſal. 119. 6. &amp; 18. 22. &amp; 106. 3. &amp; 101. 2.</note> things, at all times, and in all places.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How are they preſerued?</head>
+                  <p>
+                     <hi>A.</hi> By humbling our ſoules in the thought of our owne vnworthineſſe, <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Gen. 32. 10 Gal. 1. 16. Mat. 6. 10.</note> giuing vp our reaſon as not worth the obeying, and our wills as not worth the following.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q<g ref="char:punc">▪</g>
+                     </hi> What is the due proportion they ought to haue?</head>
+                  <p>
+                     <hi>A.</hi> The vtmoſt and higheſt pitch <note place="margin">Ro. 12. 11. Reu. 3. 19.</note> of feruency in ſpirit, which is called Zeale.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the ſecond thing required in the first Commendement?</head>
+                  <pb facs="tcp:191513:17"/>
+                  <p> 
+                     <hi>A.</hi> That we haue the Lord only for <note place="margin">Eſa. 44. 8. Exod. 20. 23.</note> our God, and no other beſides or with him.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is then charged on vs?</head>
+                  <p>
+                     <hi>A.</hi> Sincerity, giuing the Lord the <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 1 Kin. 18. 21 Hoſe. 10. 2. Pſal. 12. 2. Ephe. 4. 24.</note> truth of our hearts, and the whole part of them.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is the third thing required?</head>
+                  <p>
+                     <hi>A.</hi> That we haue the Lord alwayes for our God. <note place="margin">2 Pet. 2. 19<g ref="char:punc">▪</g> 20, 21.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Q. What then is charged on vs:</head>
+                  <p>
+                     <hi>A.</hi> Perſeuerance and conſtancy a<g ref="char:EOLhyphen"/>gainſt through &amp; aboue all letts with<g ref="char:EOLhyphen"/>out <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Reu. 1. 10. Mat. 24. 13. Rom. 2. 7. Gal. 6. 9. Hebr. 12, 12, 13. Iob. 23. 11, 12.</note> wearineſſe, diſcouragement, wa<g ref="char:EOLhyphen"/>uering or declining.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Tell me generally what is condemned herein.</head>
+                  <p>
+                     <hi>A.</hi> Atheiſme, ignorance, the want or <note place="margin">Pſal. 14. E<g ref="char:EOLhyphen"/>phe. 4. 18. Eſai. 51. 7. Ier. 17. 5. 1 Ioh. 2. 15. Phil. 3. 19. Col. 3. 5.</note> weaknes of theſe gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ces, &amp; the miſpla<g ref="char:EOLhyphen"/>cing of our affections, whereby our hearts are eſtranged from God.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Rehearſe the ſecond Commandement?</head>
+                  <p>
+                     <hi>A.</hi> Thou ſhalt not make to thy ſelfe a<g ref="char:EOLhyphen"/>ny grauen Image: or ſay the whole <note place="margin">Exod. 20. 4, 5.</note> commandement.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is forbidden in this precept?</head>
+                  <p>
+                     <hi>A.</hi> All feigned worſhip though of the true God?</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:17"/>
+                  <head>Q. When is a man ſaid to make to him<g ref="char:EOLhyphen"/>ſelfe any thing?</head>
+                  <p>
+                     <hi>A.</hi> When he deuiſeth ought of his owne head to worſhip God thereby <note place="margin">Mat. 19. 6.</note> without warrant from Gods word.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is meant by Grauen Image?</head>
+                  <p>
+                     <hi>A.</hi> Either any image to reſemble God <note place="margin">Deut. 4. 12, 14.</note> therby, whether in our heads or in the Church, or whateuer means, whereby <note place="margin">Leu. 26. 1.</note> we thinke to worſhip God.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is condemned in thoſe wordes, thou ſhalt not bow to them, nor ſerue them.</head>
+                  <p>
+                     <hi>A.</hi> By bowing downe is forbidden all <note place="margin">Hoſ. 13. 2.</note> reuerence &amp; geſtures that are teſtimo<g ref="char:EOLhyphen"/>nies of ſubjection, as kiſſing, creeping, putting off the hat, and the like: &amp; by ſeruing, all parts of outward worſhip, as gilding, enſhriuing, &amp; ſetting on high their images and reliques, the building of altars &amp; temples to them, pilgrima<g ref="char:EOLhyphen"/>ges, vowes, ſacrifices, prieſts, incenſe, waxe candles, faſts and feſtiuall dayes ordeined to their honor: all which the <note place="margin">Deut. 12, 2 3, 4. Iudg. 17. 4, 5.</note> heathen gaue to their Idolls.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Tell me then what is here required?</head>
+                  <p>
+                     <hi>A.</hi> The Lord requireth that ſeeing <note place="margin">Iohn. 4. 24. Hoſe. 4. 12. with Hoſe. 8. 2.</note> he is a ſpirit we worſhip him in ſpirit, and not in an image.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What elſe?</head>
+                  <pb facs="tcp:191513:18"/>
+                  <p> 
+                     <hi>A.</hi> That we bow before him and <note place="margin">Pſal. 95. 6. Mat. 4. 9. 10 1 Cor. 6. 20. Prou. 3. 9.</note> ſerue him only, both with our perſons and with our goods.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> And what elſe?</head>
+                  <p>
+                     <hi>A.</hi> That wee reſt in that forme of worſhip and ſeruice which hee com<g ref="char:EOLhyphen"/>mandeth <note place="margin">Heb. 8. 5. Deut. 12. 32.</note> in his word, without adding thereto, or taking ought therefrom.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Rehearſe the third Commandement.</head>
+                  <p>
+                     <hi>A.</hi> Thou ſhalt not take the name of the Lord thy God in vaine; for the <note place="margin">Exod. 20. 7.</note> Lord will not hold him guiltleſſe that taketh his name in vaine.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What doth this Commandement di<g ref="char:EOLhyphen"/>rect vs vnto?</head>
+                  <p>
+                     <hi>A.</hi> The holy vſe of all religion in heart, profeſſion, and action.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is meant by the name of God?</head>
+                  <p>
+                     <hi>A.</hi> God himſelfe, his titles and at<g ref="char:EOLhyphen"/>tributes, <note place="margin">Pſal. 20. 1. Deut. 28. 58. &amp; 32. 3. Act. 9. 15. Mic. 4. 5. Deut. 12. 5. Rom. 1. 19, 20. mat. 5. 34, 35.</note> his word, his religion, his or<g ref="char:EOLhyphen"/>dinances and his workes.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When are wee ſaid to take vp his name.</head>
+                  <p>
+                     <hi>A.</hi> When in heart, pen, word, or deed, either in the ſeruice of God, or in our ordinary conuerſing we meddle therewith.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> And what is it to take it vp in vaine.</head>
+                  <pb facs="tcp:191513:18" rendition="simple:additions"/>
+                  <p> 
+                     <hi>A.</hi> It is to vſe it irreuerently, raſh<g ref="char:EOLhyphen"/>ly and vnfruitfully, but much more to vſe it to confirme a lye, to maintaine hereſie, and to defend ſinne.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Tell me then what is here charged vpon vs?</head>
+                  <p>
+                     <hi>A.</hi> That we conceiue of God as <note place="margin">Pſa 24. 7 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Deu. 28, 58 Pſa, 66, 16. Mat, 5. 26. Lev. 22, 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 33. Eccle. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 3, 4. pſa. 5<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 14 deu. 10. 20. Ier. 5, 7. Heb. 6, 16. 1, Cor. 10, 31.</note> King of glory, and ſpeake of him, his word and religion with all reuerence: that we adorne our religion with a life anſwerable to our high calling, that we pay our vowes, and ſweare by him alone in truth, in judgement and in righteouſneſſe, that we make his glory and the aduancement of his kingdome the end of all our actions?</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is condemned?</head>
+                  <p>
+                     <hi>A.</hi> All vnreuerent and vaine vſe of Gods name and word, all curſing, and <note place="margin">Pſa 139. 20</note> prophane ſwearing.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When is ſwearing prophane?</head>
+                  <p>
+                     <hi>A.</hi> When we ſweare by that which <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Ierm. 5, 7. Math. 5. 34 35. Eccle. 9 2. Iam 5. 12. Zac. 5. 2. 4. 1 Sa, 25. 22 Pſal, 24. 4.</note> is not God, or ſweare in our common talke, and feare not an oath, * or ſweare outrageouſly, falſely and deceitfully.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> May we be guilty herein any other way?</head>
+                  <p>
+                     <hi>A.</hi> Yes, if we heare another ſweare and vtter it not, or reprooue him not, <note place="margin">Lev. 5, 1. &amp; 19. 17.</note>
+                     <pb facs="tcp:191513:19"/> if we cauſe others to ſweare by falſe <note place="margin">2. Ioh. 3 7. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t. 5. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7. Iam. 5. 12.</note> gods: yea what in our ordinary talke is aboue yea and nay, as vaine and idle proteſtations.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What elſe is condemned?</head>
+                  <p>
+                     <hi>A.</hi> To diſhonour our religion by e<g ref="char:EOLhyphen"/>uill <note place="margin">1 Sa. 2. 30. 2 Sa. 12. 14 mat. 4<g ref="char:punc">▪</g> Deu<g ref="char:punc">▪</g> 18. 10. Mic. 6. 9.</note> life, to abuſe Gods word in charms jeſts, and defence of ſin and hereſie: To call on Gods name in coniuring, witchcraft and ſorcery; to ſet it be<g ref="char:EOLhyphen"/>fore any wicked writing: to contemne his judgements, and to ſleight his mer<g ref="char:EOLhyphen"/>cies.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Rehearſe the fourth Commande<g ref="char:EOLhyphen"/>ment?</head>
+                  <p>
+                     <hi>A.</hi> Remember that thou keepe <note place="margin">Exod. 20. 8, 9, 10, 11.</note> holy the Sabbath day &amp;c.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the intent of this Comman<g ref="char:EOLhyphen"/>dement?</head>
+                  <p>
+                     <hi>A.</hi> To direct vs to ſet apart the ſeuenth partt of our time wholly to the wor<g ref="char:EOLhyphen"/>ſhip of God, as the former commande<g ref="char:EOLhyphen"/>ments taught vs our euery dayes duty.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> To whom is it chiefly giuen?</head>
+                  <p>
+                     <hi>A.</hi> To the magiſtrates and maſters <note place="margin">Verſe 10.</note> of families.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is inioyned therein?</head>
+                  <p>
+                     <hi>A.</hi> To remember the Sabbath be<g ref="char:EOLhyphen"/>fore it come, and to finiſh our workes <note place="margin">Gen. 2. 2.</note>
+                     <pb facs="tcp:191513:19"/> on the ſixe dayes, ſo that neither our he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ds be troubled with cares, nor our hands tempted to labour, nor a neceſſi<g ref="char:EOLhyphen"/>ty brought on vs by our negligence, which might haue beene preuented.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How is the day to be kept?</head>
+                  <p>
+                     <hi>A.</hi> By reſting from our workes of labour, pleaſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, or ſin; yea, our car<g ref="char:EOLhyphen"/>tell muſt reſt, that ſo all occaſions of <note place="margin">Eſa. 56. 2. &amp; 58. 13.</note> mans labor may be cut off for that day: and by keeping the reſt that we might doe the workes of holineſſe.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What are the workes of holineſſe?</head>
+                  <p>
+                     <hi>A.</hi> The duties of Gods ſeruice pub<g ref="char:EOLhyphen"/>lique &amp; priu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, &amp; the works of mercy.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When are they done in a Sabbath-like manner?</head>
+                  <p>
+                     <hi>A.</hi> If wee performe them with de<g ref="char:EOLhyphen"/>light, <note place="margin">Eſa. 56. 6. &amp; 58. 13. Deu. 5. 12<g ref="char:punc">▪</g> Exod. 31. 16. Leu. 23. 3. Pſ. 9<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 2. Exo. 20. 11. Eze. 46. 2. 5.</note> with obſeruance that no duety be omitted, with intireneſſe ſanctify<g ref="char:EOLhyphen"/>ing the whole day, and with beleife that God will bleſſe that day and the duties thereof to our increaſe in grace.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What are required as meanes to ſanctifie this day?</head>
+                  <p>
+                     <hi>A.</hi> A place of aſſemblies, and per<g ref="char:EOLhyphen"/>ſons <note place="margin">Leu<g ref="char:punc">▪</g> 19. 30. &amp; 21. 6. 2 Chr. 15. 3. Hagg. 1. 1. 1 Cor. 9, 9<g ref="char:punc">▪</g>
+                     </note> to doe the dueties of the publike worſhip, and maintenance of both.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q<g ref="char:punc">▪</g>
+                     </hi> What are the open breaches of the Sabbath?</head>
+                  <pb facs="tcp:191513:20"/>
+                  <p> 
+                     <hi>A.</hi> Buying and ſelling, carrying of <note place="margin">Neh. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 16 20. Ier. 17. 22. Exo. 16 29 ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 15. Exod, 32, 6.</note> burdens, taking of journeyes, vnleſſe it be to the houſe of prayer; the find<g ref="char:EOLhyphen"/>ing our pleaſure in ſports and paſtime, idleneſſe, and ſinfull workes.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> What are the ſecret breaches which are no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> regar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed?</head>
+                  <p>
+                     <hi>A.</hi> To omit the dueties of the day, not to remember before it come, to <note place="margin">Ezek. 46, 10. Lev. 13. 3. Amos 8, 5. pſa. 92. ti<g ref="char:EOLhyphen"/>tle with 13 14 Ezech. 22, 26 Eſa, 58, 13. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Neh 13. 15 19. Ier. 17 19. 25.</note> deſire it were paſt, not calling it a de<g ref="char:EOLhyphen"/>light, to * hide our eyes f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om ſeeing the authoritie and dueties of this day, to ſpeake our owne words, not to flou<g ref="char:EOLhyphen"/>riſh according to the meanes God gi<g ref="char:EOLhyphen"/>ueth vs, and hauing power not to re<g ref="char:EOLhyphen"/>forme in others the abuſes of the Sab<g ref="char:EOLhyphen"/>bath.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q<g ref="char:punc">▪</g>
+                     </hi> Theſe foure Commandeme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts teach our duty to God, what is taught in the ſixe following?</head>
+                  <p>
+                     <hi>A.</hi> Our duety to our neighbour, which is fulfilled in one word, to loue him as our ſelues. <note place="margin">Rom, 13, 9.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> And who is our neighbour?</head>
+                  <p>
+                     <hi>A.</hi> Euery man whether friend or <note place="margin">Luc. 10. 29. 30, 37.</note> fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> ſtranger of our owne houſe.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How is this loue ſhewed?</head>
+                  <p>
+                     <hi>A.</hi> In preſeruing his dignity, per<g ref="char:EOLhyphen"/>ſon, chaſtity, goods and good name, <note place="margin">Matt, 7, 12.</note>
+                     <pb facs="tcp:191513:20"/> as my owne, and as I would he ſhould doe mine, not wronging him in any of them, no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot in the firſt riſings of my thoughts &amp; affections againſt him.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Rehearſe the fift Commandement?</head>
+                  <p>
+                     <hi>A.</hi> Honour thy father and thy mo<g ref="char:EOLhyphen"/>ther, <note place="margin">Exo. 20, 12 Deu, 5, 16.</note> &amp;c.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Is any thing meant by father and mother more then our naturall parents? <note place="margin">
+                        <hi>Pro.</hi> 23. 22. <hi>Exodus</hi> 18. 18, 24. <hi>heſt.</hi> 2, 7, 20. <hi>Eſa</hi> 22, 21. 2 <hi>Kings</hi> 2. 12. 2 <hi>Kin.</hi> 5 13. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Tim.</hi> 5. 1, 2. <hi>Iob.</hi> 29, 16. <hi>Gen</hi> 4. 20. 22. <hi>&amp;</hi> 45. 8.</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Yes, parents by law, parents that adopt children, parents of the Country, as Kings and all magiſtrates, parents of the Church, as miniſters &amp; all Church gouernours, parents of the family, as the Husband, the Maſter &amp; Dame, parents in age and gifts, as our ancients, patrons, tutors, inſtructors and protectors.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is meant by honour?</head>
+                  <p>
+                     <hi>A.</hi> It implieth a dignity and excel<g ref="char:EOLhyphen"/>lency in our neighbour, and ſignifieth <note place="margin">2 Pet, 2. 10.</note> all that duty and reſpect, in heart, words and behauiour, whereby his dignity may be preſerued.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> By this me thinks the beames of fa<g ref="char:EOLhyphen"/>therhood are light, though diuerſely, vp<g ref="char:EOLhyphen"/>on all?</head>
+                  <p>
+                     <hi>A.</hi> It is ſo: therefore we are char<g ref="char:EOLhyphen"/>ged <note place="margin">1 Pet. 2. 17.</note> to honour all men, according to
+<pb facs="tcp:191513:21"/> the degree of dignity God hath beſto<g ref="char:EOLhyphen"/>wed on them.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Why then is the Commandement giuen to children and parents chiefely<g ref="char:punc">▪</g>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Becauſe the bonds of affections are herein moſt ſtrong, juſt and ſweet, and being the firſt and that which all paſſe through, is the beſt rule to guide the carriage of ſuperiour and interiour in all degrees.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q</hi> Tell me then what owe par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nts to their children?</head>
+                  <p>
+                     <hi>A.</hi> To bring them vp in the f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>are <note place="margin">Epheſ. 6. 4. Pro. 20. 11. &amp; 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 6. 2 Cor. 12. 14. Pro. 19. 14. 1 Cor. 7. 36. Pro. 13. 24. Col. 3. 21. Hoſ. 9. 14.</note> of God, and ſome ho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt trade of life, to prouide for their eſtates and marri<g ref="char:EOLhyphen"/>age, and to giue them due correction, and all this guided by loue: and in ſpeciall the mother ought to nurſe her child if ſhe be able.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> And what is the honour children owe to their parents?</head>
+                  <p>
+                     <hi>A.</hi> Reuerence in heart and behaui<g ref="char:EOLhyphen"/>our, <note place="margin">Exo. 20. 12 Col. 3. 20, Epheſ. 6. 1. Gen. 24. Leu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 19. 3. G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n. 9. 21. 22. 1 Tim 5. 4.</note> obedience in all things, but eſpe<g ref="char:EOLhyphen"/>cially in the choiſe of their calling and marriage, feare to diſpleaſe, a couering of their in firmities, and thankefull re<g ref="char:EOLhyphen"/>compence, by releife if they be in need &amp; by preſeruing their honour in life and death.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:21"/>
+                  <head>Q. Seeing all gouernours are called pa<g ref="char:EOLhyphen"/>rents, and the gouerned are children, doe they owe in ſome meaſure the like dueties each to other?</head>
+                  <p>
+                     <hi>A.</hi> Yes: The gouernours owe the loue, prouiſion, protection and nur<g ref="char:EOLhyphen"/>ture <note place="margin">Rom, 13, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 7.</note> of a father, and the gouerned owe the reuerence, obedience, feare, coue<g ref="char:EOLhyphen"/>ring of infirmities, and the thankfull recompence of a child.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Rehearſe the ſix<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Commandement?</head>
+                  <p>
+                     <hi>A.</hi> Thou ſhalt not kill. <note place="margin">Exo, 20, 13. Numb, 35, 33.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Q. Is any thing condemned here be<g ref="char:EOLhyphen"/>ſides the embruing of the hands in blood?</head>
+                  <p>
+                     <hi>A.</hi> Yes, all hurt to our owne or any other mans perſon, and all cruelty to the Dumbe creatures.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Which way are we ſelfe-murtherers beſides by laying violent hands upon our ſelues?</head>
+                  <p>
+                     <hi>A.</hi> By committing ſuch crimes <note place="margin">Nu, 16, 38.</note> which deſerue to bee puniſhed by the magiſtrate, by euill wiſhes, by raſh at<g ref="char:EOLhyphen"/>tempts <note place="margin">Mat, 4, 6. 1 Cor, 7, 10.</note> without a calling, by worldly ſorrow, enuy, and diſtempers of the mind, by neglecting our health in <note place="margin">Pro, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, 22 &amp; 15, 13. Eſa, 38, 21,</note> want of conuenient dyet, ſleepe, labor and recreation, and by refuſing the helpe or diſobeying the directions of
+<pb facs="tcp:191513:22"/> the phyſician when need is: and laſt<g ref="char:EOLhyphen"/>ly <note place="margin">Pro. 23, 1, 2, 3. 29. 30, 31, 32.</note> by intemperance in meate &amp; drinke as gluttony and drunkenneſſe.</p>
+               </div>
+               <div type="question">
+                  <head>Q. All this is againſt our bodily life: How doe we kill our ſoules?</head>
+                  <p>
+                     <hi>A.</hi> By hating wiſdome, * and brea<g ref="char:EOLhyphen"/>king the commandements, and by de<g ref="char:EOLhyphen"/>ſpiſing <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Pro. 8, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9. Pro 19. 16 <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> our owne way. *</p>
+               </div>
+               <div type="question">
+                  <head>Q. Wherein may wee be murtherers of our neighbour?</head>
+                  <p>
+                     <hi>A.</hi> In our hart, geſtures, words &amp; deeds. <note place="margin">Mat, 15. 19</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Q. What is the murther of the heart?</head>
+                  <p>
+                     <hi>A.</hi> Vnaduiſed anger, hatred, * hard<g ref="char:EOLhyphen"/>hartedneſſè, <note place="margin">Mat, 5, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 1. Ioh. 3 15. pro, 21 13. Gen 26 14. &amp; 37. 11.</note> * and enuy.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is the murher in the geſtures?</head>
+                  <p>
+                     <hi>A.</hi> The interjections of anger, as <note place="margin">Mat, 5, 22. Gen 4, 5. Mat. 27. 39 20, 15. pſal, 31. 15, 19. Act. 7, 54. Ez<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 25. 6. Eſa<g ref="char:punc">▪</g> 58. 9. 2 Sa, 16. 13</note> tuſh, aha, fye; the falling of the coun<g ref="char:EOLhyphen"/>tenance, nodding of the head, making of mowes, ſharpening of the eyes, win<g ref="char:EOLhyphen"/>king with the eye, gnaſhing of the teeth, ſtamping with the feet, clapping of the hands, the putting forth of the finger, caſting duſt into the ayre, cla<g ref="char:EOLhyphen"/>mour, &amp; all expreſſions of the inward <note place="margin">Ephe. 4. 31 Tit. 3, 2. Pro. 12. 18 Rom 14. 10 Gal. 5. 15, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0 Pro. 29, 20. mat, 5. 22. gal 4. 29. Ephe. 5. 4. 1, Pet, 3, 9.</note> hatred of the heart.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What words are murtherous.</head>
+                  <p>
+                     <hi>A.</hi> All bitter, cenſorious, brawling, haſty, threatning, reuiling, and ieſting words.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:22"/>
+                  <head>Q. And who murthers him in his deeds? <note place="margin">
+                        <hi>Lue,</hi> 10. 31. 32. <hi>exo.</hi> 21. 28, 29. <hi>pſal.</hi> 37. 12. <hi>Lev.</hi> 19, 33. <hi>Rom</hi> 13, 13. <hi>pro.</hi> 20. 3. <hi>&amp;</hi> 6. 16, 19. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> He that releiues him not in miſe<g ref="char:EOLhyphen"/>ry if he be able, that keepeth harmfull cattell whereby he is hurt, he that plot<g ref="char:EOLhyphen"/>teth againſt him by fraud, or vexeth him by violence, &amp; he that is conten<g ref="char:EOLhyphen"/>tious and ſowet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> diſcord. *</p>
+               </div>
+               <div type="question">
+                  <head>Q. Are there not ſome degrees of mur<g ref="char:EOLhyphen"/>ther more directly againſt the bodies of our neighbours.</head>
+                  <p>
+                     <hi>A.</hi> Yes: all fightings, though but by making an aſſault, much more if it <note place="margin">Exo. 21, 24 mat. 26. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 1, Kin. 22. 24. exod. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>1 22.</note> be a wound or blemiſh giuen, whether in ſcorne or fury: or any hurt to a wo<g ref="char:EOLhyphen"/>man with child.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Who more eſpecially muſt beware of killing?</head>
+                  <p>A. The phyſician, the chirurgeon, and the midwiues. <note place="margin">Exod. 1. 17.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Q. How are we guilty of murthering the ſoule of our neighbour?</head>
+                  <p>A. By euill example, by omiſſion of <note place="margin">Mat. 5, 16. 19. Lev. 19, 17. mat. 18. 6. Rom. 14. 13. 1. Cor, 8, 11. 13.</note> inſtruction &amp; reproofe when wee may and ought, &amp; by giuing offence to the weake.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Who in ſpeciall muſt take heede of ſoule-murther?</head>
+                  <p>A. The miniſters, who murther <note place="margin">Eſa 56, 10. Tim. 4. 14</note> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oules when they teach no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, or teach
+<pb facs="tcp:191513:23"/> falſe doctrine, or true doctrine in ſuch <note place="margin">1, Tim, 4, 14. Iet, 23, 13. Eze, 13, 18. Ier, 23, 11, 14,</note> manner that the godly are diſcoura<g ref="char:EOLhyphen"/>ged, and the wicked ſtrengthened: or when they are prophane in life.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Is it vnlawfull to wrong a priuate man, and may we wrong ſocieties?</head>
+                  <p>A. God forbid.</p>
+               </div>
+               <div type="question">
+                  <head>Q. How are they wronged chi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </head>
+                  <p>A. By treaſons againſt King <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtate.</p>
+               </div>
+               <div type="question">
+                  <head>Q. How elſe? <note place="margin">2 <hi>Tim,</hi> 3, 4.</note>
+                  </head>
+                  <p>A. In peace, by ſetting vp or tole<g ref="char:EOLhyphen"/>rating a falſe god, or falſe worſhip, by <note place="margin">Deut, 7. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6. Iudg, 17, 6. 2 Kin, 18, 4. 1 Kin, 20, 33, 42.</note> making vnwholeſome lawes, and by letting incurable and infectious mem<g ref="char:EOLhyphen"/>bers eſcape; or any ot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er way of ſe<g ref="char:EOLhyphen"/>cret or open practiſe that weakeneth eſtates.</p>
+               </div>
+               <div type="question">
+                  <head>Q. How in warre?</head>
+                  <p>A. By vniuſt warre, by not offering firſt conditions of peace, by deſtroying <note place="margin">2 Sa, 20, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>8. Dent, 20, 19, 20.</note> fruite trees, and graine, by inſulting cruelty in victory, and raſhneſſe in at<g ref="char:EOLhyphen"/>tempts.</p>
+               </div>
+               <div type="question">
+                  <head>Q. May any wrong bee offered to our neighbours dead;</head>
+                  <p>A. Yea: Inhumanity, in not bury<g ref="char:EOLhyphen"/>ing their corpſes, or the like, are mur<g ref="char:EOLhyphen"/>thers. <note place="margin">Pſa, 79, 2, 3</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Q. You ſaid that cruelty towards the beaſts is condemned?</head>
+                  <pb facs="tcp:191513:23"/>
+                  <p> A. Very right; for ſaith <hi>Solomon,</hi> 
+                     <note place="margin">Pro. 12. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> the righteous regardeth the life of his beaſt: wherefore the ouer-labouring of cattell, the ſports or Beare-baiting, Bul-baiting and Cock-pits are vnlaw<g ref="char:EOLhyphen"/>full.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Rehearſe the ſeauenth Commande<g ref="char:EOLhyphen"/>ment.</head>
+                  <p>A. Thou ſhalt not commit adultery? <note place="margin">Exo. 20. 14</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Q. What is condemned vnder adultery? <note place="margin">1 <hi>Cor.</hi> 6. 9. 18. <hi>Mat.</hi> 15. 19. <hi>Col.</hi> 3. 5 1 <hi>Cor.</hi> 7. 2. <hi>Mat.</hi> 5. 27. <hi>Gen</hi> 39. 7. <hi>Ro</hi> 13, 13. <hi>Eſai.</hi> 3. 16. <hi>Col,</hi> 3, 8. <hi>E<g ref="char:EOLhyphen"/>phe.</hi> 5. 4.</note>
+                  </head>
+                  <p>Not the vncleaneneſſe of marryed perſons alone, but alſo fornication, vn<g ref="char:EOLhyphen"/>cleane thoughts, inordinate affections, burning luſts, a wanton eye or vnchaſt lookes, chambering and wantonneſſe in our geſtures, and filthy ſpeaking.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What elſe?</head>
+                  <p>The painting of the face, the attire or dreſſe that is whoriſh, as the gar<g ref="char:EOLhyphen"/>ments <note place="margin">2 Kin, 9, 30. 22. Deu, 22 9 Hoſ, 2, 2. 1 Cor, 11. 1 Tim, 2, 9. 1 Pet, 3, 3. Eſa. 3. 16. 18, 24, Zep 1, 8. Eſa, 3, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 23. Prou. 7. 10.</note> of another ſexe, naked breaſts, the vncouered haire in women, all art in the haire to moue others, the intice<g ref="char:EOLhyphen"/>ments of perfumes, ſtrange apparrell, the faſhions of infamous perſons, and all dreſſe that is againſt ſhamefaſtneſſe and modeſty, with all the inſtruments that belong to this vanity of apparrell.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What elſe is condemned?</head>
+                  <p>A. The occaſions of vncleaneneſſe
+<pb facs="tcp:191513:24"/> as idlenes, pride and fulneſſe of bread, <note place="margin">Mat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Ez<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 16, 49. pro, 7, 11. 1 Tim <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 13. Zeph 1, 9. mar, 6, 22. 1 The. 5 23. 1 Cor, 5 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 1 Cor. 7, 2, 8.</note> pratling and gadding from houſe to houſe, laſciuious dancings, bookes, ſongs, pictures, and ſtage playes, the companying with fornicators, the re<g ref="char:EOLhyphen"/>ſorting to lewd houſes, the maintai<g ref="char:EOLhyphen"/>ning of ſtewes, the making light of o<g ref="char:EOLhyphen"/>thers fornication, and the not marrying when we haue not the gift of conti<g ref="char:EOLhyphen"/>nency.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Are there not ſome monſtrous tranſ<g ref="char:EOLhyphen"/>greſſions condemned here?</head>
+                  <p>
+                     <hi>A.</hi> Yes, buggery, Sodomity, inceſt, po<g ref="char:EOLhyphen"/>lygamy, ſelfe pollution, the vnnaturall <note place="margin">Gen, 38, 9. Mal, 2, 11.</note> filthines of women with women, the tranſgreſſion of <hi>Onan,</hi> the marrying of the daughter of a ſtrange god, the put<g ref="char:EOLhyphen"/>ting <note place="margin">Mat, 19. 9.</note> away ones wife &amp; not for fornica<g ref="char:EOLhyphen"/>tion, &amp; the marrying of the betrothed, or vniuſtly diuorced.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> To auoide theſe euills more to keepe chaſtity in body and ſpirit, and to poſſeſſe our veſſells in holineſſe and honour. R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>hearſe the eight Commandement?</head>
+                  <p>
+                     <hi>A</hi> Thou ſhalt not ſteale.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is here charged vpon vs?</head>
+                  <p>
+                     <hi>A.</hi> That we ſtudy no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our owne ſo much as euery man anothers wealth. <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> cor 10. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is ſtealing?</head>
+                  <pb facs="tcp:191513:24"/>
+                  <p> 
+                     <hi>A.</hi> The vniuſt taking away or kee<g ref="char:EOLhyphen"/>ping backe of perſons or things per<g ref="char:EOLhyphen"/>teining to God or man.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How doe men ſteale from God?</head>
+                  <p>
+                     <hi>A.</hi> By deuouring that which is ho<g ref="char:EOLhyphen"/>ly, <note place="margin">Pro. 20. 25 Mal. 3. 8. 9<g ref="char:punc">▪</g> 10. Act. 8, 18 19. &amp; 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> 24. 25.</note> that is, which is conſecrated to the maintenance of Gods worſhip, and of ſchooles and vniuerſities, and to the releife of the poore; by ſetting to ſale the gifts of Gods ſpirit, and faculties to diſpenſe thoſe gifts, and by making gaine of things hindering piety &amp; fur<g ref="char:EOLhyphen"/>thering ſuperſtition.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How do men ſteale from themſelues? <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 2 <hi>The.</hi> 3, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <hi>Eph,</hi> 4, 28. <hi>prov,</hi> 18, 9. 19, 15 <hi>&amp;</hi> 21 25. 23, 21. <hi>Ioh</hi> 6, 12. <hi>Pro.</hi> 11. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>Eccle</hi> 5. 19.</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> By liuing without a calling, * by idlenes in their calling, by prodigality in dyet, apparrell or otherwiſe, by vn<g ref="char:EOLhyphen"/>thriftines, not ſauing that wee haue, that nothing be loſt, and by raſh ſure<g ref="char:EOLhyphen"/>tiſhip and by niggardlineſſe.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How ſteale we from our neighbors by withholding more then is meete?</head>
+                  <p>
+                     <hi>A.</hi> When we imploy not our owne <note place="margin">Iam, 5. 2, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Pro. 11, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 26. Iam, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Pſa. 37. 21. Prov 3, 27. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. mat, 21. 41. Lev. 6. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Luc. 19. 8.</note> goods, when wee withhold corne or wages, or debt, or releife from the poore, or things left in truſt, or things found if we know the owner, or things vniuſtly gotten without making reſti<g ref="char:EOLhyphen"/>tution, with the better if we be able.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:25"/>
+                  <head>
+                     <hi>Q.</hi> How ſteale we by taking away?</head>
+                  <p>
+                     <hi>A.</hi> By force as robbery and piracy, <note place="margin">Pro, 28, 28. Pro, 20, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Deut, 15, 9, 10, &amp; 18 9, 10, 11. Pro. 22. 6. Gal. 3. 19. 1 The. 4. 6. Pro. 29. 24, 34.</note> or fraud in bargaining or out of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar<g ref="char:EOLhyphen"/>gaining; as is vſury, oppreſſion, fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e weights, the practiſe of vnlawfull arts, gaming, the falſifying o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l of the dead, with all deceit, or p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtake<g ref="char:EOLhyphen"/>ing with o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> concealing of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ef<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</p>
+               </div>
+               <div type="question">
+                  <head>Q. By theſe ſinnes we may eaſily know the contrary dueties enioyned. Reh<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>e the ninth Commandement?</head>
+                  <p>A. Thou ſhalt not beare falſe witnes againſt thy neighbour.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What wayes may this be done?</head>
+                  <p>A. In iudgement and out of iudge<g ref="char:EOLhyphen"/>ment.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Out of iudgement how?</head>
+                  <p>A. By tales, by backbiting, whiſ<g ref="char:EOLhyphen"/>pering, <note place="margin">Leu. 19. 16. Pro. 16. 28. Ier. 20. 10. Rom, 1, 29. 30. Epheſ. 4. 25. Prov. 27. 24. and 15. 15. 24. 24.</note> lying, and ſlandering, by flat<g ref="char:EOLhyphen"/>tery and vaine glory, by cenſuring and euill ſuſpicious, and by juſtifying the wicked.</p>
+               </div>
+               <div type="question">
+                  <head>Q. In iudgement how.</head>
+                  <p>A. When the witneſſe is wholly <note place="margin">1 Kin. 21. 13. Mat. 26. 61 Iohn. 2. 29. 1 Sa. 22. 9. Zep. 3. 4. Exod<g ref="char:punc">▪</g> 23. 1. Pſa, 15. 5.</note> falſe, or in part, or if true, yet it is of enuy, and when the Iudge wreſts the law, or furthers euill cauſes, or taketh Bribes though for the innocent.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:25"/>
+                  <head>Q. Who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lſe b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>areth falſe witneſſe<g ref="char:punc">▪</g>
+                  </head>
+                  <p>A. He that con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emne <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with<g ref="char:EOLhyphen"/>out <note place="margin">Deu. 19. 15. Reu. 21. 8. Leu. 5. 1.</note> witneſſe, he t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t is feareful to beare witneſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the truth, he that co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cea<g ref="char:EOLhyphen"/>leth the tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h and he that betrayeth cauſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> colluſion.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Rehearſe the tenth Commandement</head>
+                  <p>A. Thou ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t not couet &amp;c.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is meant by coueting?</head>
+                  <p>A. The fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt inclinations &amp; riſings <note place="margin">Rom. 7, 7. Iam. 1. 14.</note> of the thoughts and affections inordi<g ref="char:EOLhyphen"/>nately, which tickle the heart with ſome ioy and delight, and entiſe it, cal<g ref="char:EOLhyphen"/>led <note place="margin">Col. 3. 5.</note> euill concupiſcence.</p>
+               </div>
+               <div type="question">
+                  <head>Q. Why is there added, thy neighbors wife, his ſeruant, his maid, his oxe or aſſe, or any thing that is his<g ref="char:punc">▪</g>
+                  </head>
+                  <p>A. To ſhew, that the firſt motions of the ſoule in luſting againſt our neighbonrs dignity, life, wife, poſſeſ<g ref="char:EOLhyphen"/>ſions, and good name are euill, though I neuer giue full conſent to them.</p>
+               </div>
+               <div type="question">
+                  <head>Q. What is here required<g ref="char:punc">▪</g>
+                  </head>
+                  <p>A. The purity of the heart, and the <note place="margin">Ier. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 14. Gal. 5. 17.</note> holy concupiſcence and the luſting of the ſpirit.</p>
+               </div>
+               <div type="question">
+                  <head>Q. You haue vnfolded the precepts of the Law: Giue me now the precepts of the Goſ<g ref="char:EOLhyphen"/>pell</head>
+                  <pb facs="tcp:191513:26"/>
+                  <p> A. Firſt it chargeth all men euery <note place="margin">Act. 17. 30. 31. Mat. 9 13. Luc 17. 3.</note> where to repent, for Chriſt came to call ſinners, but to repentance, &amp; therefore aſſureth vs that except we repent, wee ſhall all periſh.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How is this worke to be done? <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Pſal</hi> 4, 4. <hi>Lam.</hi> 2. 40, 1 <hi>Ioh.</hi> 1. 9. <hi>Pſal</hi> 38. 18. 1 <hi>Cor.</hi> 11. 31. <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>al</hi> 51 17. <hi>Zac.</hi> 12. 10. 11. <hi>pro.</hi> 28. 13. <hi>hoſ.</hi> 14. 2. <hi>In this worke the Lord requyreth a ſpirit with<g ref="char:EOLhyphen"/>out gui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e. Rom.</hi> 10. 9. <hi>Ioh.</hi> 8. 24.</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> Wee muſt commune with our owne hearts in ſecret, &amp; try our wayes by the law to find out our ſinnes, and then we muſt confeſſe them to God, and judge our ſelues for them, till the Lord giue vs a broken and a contrite ſpirit, ſo that we can mourne for our ſins as much as for the loſſe of an only ſonne: and then we muſt forſake them for time to come.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the ſecond precept?</head>
+                  <p>
+                     <hi>A.</hi> That we beleiue the glad tidings of our ſaluation by Ieſus Chriſt, and the forgiuenes of our ſinnes through his moſt precious death.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is here to be done? <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 2 <hi>Cor.</hi> 13. 5. <hi>Iude</hi> 20. 21 <hi>Rom.</hi> 10. 14</note>
+                  </head>
+                  <p>
+                     <hi>A.</hi> To examine our ſelues whether we be in the faith or no, &amp; to build vp our ſelues in our moſt holy faith daily.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How may this faith and repentance be wrought in vs?</head>
+                  <p>
+                     <hi>A.</hi> By the word preached?</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How may they be encreaſed? <note place="margin">1 <hi>Cor.</hi> 1. 21</note>
+                  </head>
+                  <pb facs="tcp:191513:26"/>
+                  <p> 
+                     <hi>A.</hi> By the conſcionable vſe of the <note place="margin">Luc. 8. 15. 1 Cor 11. 25 Col. 2. 12. Iude 20. 1. Cor. 14. 24. 26.</note> meanes of his worſhip which he hath preſcribed to vs, as the hearing of the word with an honeſt and good heart, the receiuing of the Sacraments and prayer in the holy Ghoſt: * which is a third precept of the Goſpell.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How may wee know our encreaſe of <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Eſa.</hi> 55. 1. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 1 <hi>Pet.</hi> 2. 2. <hi>Iob.</hi> 23. 12. <hi>&amp;</hi> 27. 10. 1 <hi>The</hi> 2, 13</note> faith and repentance?</head>
+                  <p>
+                     <hi>A.</hi> By our holy thirſt after, and loue vnto theſe ordinances of Chriſt.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Through whom muſt out prayers be offered vp to G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d?</head>
+                  <p>
+                     <hi>A.</hi> In the name of Chriſt onely. <note place="margin">Col 3. 17.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the rule of prayer?</head>
+                  <p>
+                     <hi>A.</hi> That prayer which our Sauiour <note place="margin">Mat 6. 9. Luc. 11, 2.</note> taught vs to ſay and to pray after this manner.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Rehea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe it?</head>
+                  <p>
+                     <hi>A.</hi> Our father which art in heauen</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> When muſt we pray?</head>
+                  <p>
+                     <hi>A.</hi> Continually watching in the <note place="margin">Col. 4. 2. Luc. 18. 12.</note> ſame with thankſgiuing.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> Where?</head>
+                  <p>
+                     <hi>A.</hi> Euery where ſo that wee lift vp pure hand without wrath &amp; doubting <note place="margin">1 Tim. 2. 8.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is a fourth precept of the Goſpell?</head>
+                  <p>
+                     <hi>A.</hi> That we loue the Brotherhood, <note place="margin">1 Pet. 2. 17 Epheſ. 3. 6.</note>
+                     <pb facs="tcp:191513:27"/> euen thoſe who are partakers with vs of the ſame promiſe of the Goſpell.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How muſt this loue be manifeſted?</head>
+                  <p>
+                     <hi>A.</hi> By chooſing their fellowſhip as <note place="margin">Pſal, 119. 63. &amp; 16. 3 1 Cor. 12. 7. Rom. 12. Phil. 1. 27. Heb. 13, 2. 1 Pet. 4. 9. Gal. 6. 1, 2.</note> the onely excellent ones, by employ<g ref="char:EOLhyphen"/>ing our gifts for their good, by being of like affection, by being of one heart and one mind, ſtriuing together for the faith of the Goſpell, by being har<g ref="char:EOLhyphen"/>berous, and bearing one anothers bur<g ref="char:EOLhyphen"/>thens.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What muſt be auoided that we may keepe and expreſſe this loue?</head>
+                  <p>
+                     <hi>A.</hi> All ſchiſme and diuiſions, judg<g ref="char:EOLhyphen"/>ing <note place="margin">1. Cor. 1, 10 &amp; 12. Rom. 14. Phil. 2. 4. Iam. 2. 1. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Ioh. 3. 18. 3 Ioh, 5.</note> one another about things indiffe<g ref="char:EOLhyphen"/>rent, vaine glory, reſpect of perſons, diſſimulation, vntruſtineſſe, inconſtan<g ref="char:EOLhyphen"/>cy, and ſuites in law.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is a Saint?</head>
+                  <p>
+                     <hi>A.</hi> That we walke wiſely towards <note place="margin">Col. 4, 5. Phil. 2. 15. Pſal, 112. Mat. 11. 29 Phil. 4. mat. 5. 16. prov. 24. 25. &amp; 28. 4. gal, 4. 18. 1, Pet. 2. 13. 15. Dan. 6. 5.</note> them that are without, in harmeleſnes, diſcretion, meekenes and lowlines, pa<g ref="char:EOLhyphen"/>tience vnder wrongs, fruitfulnes in the workes of mercy, zeale &amp; vndaunted<g ref="char:EOLhyphen"/>nes in a good cauſe, and ſubjection to authority.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the ſixt precept?</head>
+                  <p>
+                     <hi>A.</hi> That the firſt day of the weeke <note place="margin">1 Cor 16. 1. 2</note> is the Lords day.</p>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:191513:27"/>
+                  <head>
+                     <hi>Q.</hi> What is a ſeuenth?</head>
+                  <p>
+                     <hi>A.</hi> That we quench not, nor griue, nor reſiſt, much leſſe that we deſpight <note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <note place="margin">1 The. 5. 19 Ephe. 4, 30. Act. 7. 51. Heb. 10. 26. 29.</note> not the Spirit of grace and the worke thereof in our owne harts or the liues of others, which is the ſinne againſt the Holy Ghoſt.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the eight you may giue;</head>
+                  <p>
+                     <hi>A.</hi> That being watchfull againſt temptations to ſinne, we put on the whole armor of God euery day: buil<g ref="char:EOLhyphen"/>ding <note place="margin">1 Cor. 16. 13. Ephe. 6. 10. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Luc. 14. 26.</note> all our deſires vpon the foundati<g ref="char:EOLhyphen"/>on o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſelfe-deniall * and ready to ſuffer for his ſake.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the ninth?</head>
+                  <p>
+                     <hi>A.</hi> That we prepare for death. <note place="margin">Pſal. 39. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. &amp; 90. 12.</note>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> How?</head>
+                  <p>
+                     <hi>A:</hi> By learning that skill to dy dai<g ref="char:EOLhyphen"/>ly; <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 1 Cor. 15. 31 Heb. 11. 13. 1 Cor. 7. 31.</note> and by liuing as pilgrimes and ſtrangers here, vſing the world as if we vſed it not.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What is the tenth?</head>
+                  <p>
+                     <hi>A.</hi> The liuely hope of heauen and <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. 1 Pet. 1. 3. 1 The. 1. 10 2 Pet. 3. 12.</note> daily waiting for the comming of Chriſt to judgment.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What direction is giuen to diſ<g ref="char:EOLhyphen"/>charge this ſincerely?</head>
+                  <p>
+                     <hi>A.</hi> That we come euery day to the <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Ioh. 3. 22.</note> light of Gods word, to ſee whether
+<pb facs="tcp:191513:28"/> our deeds be wrought in God or noe.</p>
+               </div>
+               <div type="question">
+                  <head>
+                     <hi>Q.</hi> What comfort haue we in this worke?</head>
+                  <p>
+                     <hi>A.</hi> We haue the loue of God as a <note place="margin">Hoſ. 14. 4. a. Cor. 6. 18. Rom. 8. 32. 1 Cor. 6. 19 1. Pet. 1. 8. pſa. 65. 4. Eſa. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 8. Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 11. 24 Heb, 1. 19. Pſa. 34. Ephe. 2. 19. Rom. 8. 28. Ioh. 10<g ref="char:punc">▪</g> 28. 29. &amp; 6. 39. Rom. 4. 13. 1 Tim. 4. 8. 9. Pſa. 73. 24. <hi>Praroga<g ref="char:EOLhyphen"/>tives of the Saints.</hi>
+                     </note> father, Chriſt with all his benefits is ours, we are the temples of the Holy Ghoſt, who often comforteth vs with joyes vnſpeakeable and full of glory, we haue freedome to Gods Houſe, au<g ref="char:EOLhyphen"/>dience of our prayers, the guard of An<g ref="char:EOLhyphen"/>gells, the communion with all Saints, the ſanctification of our afflicti<g ref="char:EOLhyphen"/>ons, preſeruation from finall and totall Apoſtacie, the inhe<g ref="char:EOLhyphen"/>ritance of the earth while w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> liue, and heauen when we die.</p>
+               </div>
+               <trailer>FINIS.</trailer>
+               <closer>Soli Deo trin vni Glo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia,</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
